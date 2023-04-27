@@ -12,7 +12,8 @@ public class BinarySearch {
 		System.out.println("the index of " + n + " is " + result);
 		s.close();
 	}
-
+	
+	/* Binary search method */
 	private static int findIndex(int[] a, int key) {
 		int start = 0, end = a.length-1;
 		int mid = start + (end-start)/2;
