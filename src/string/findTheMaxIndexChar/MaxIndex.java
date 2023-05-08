@@ -8,7 +8,7 @@ public class MaxIndex {
 	static final int size = 26;
 	
 	//checking maxIndex 
-	private static char maxIndex(String a,String b) {
+	private static String maxIndex(String a,String b) {
 		//hashing array 
 		int[] arr = new int[size];
 		
@@ -30,14 +30,15 @@ public class MaxIndex {
 			}
 		}
 		
-		//returning the max value index 
+		//returning the max value 
+		String s="";
+		
 		for(int i=0;i<arr.length;i++) {
 			if(max==arr[i]) {
-				return (char)(i+'a');
+				s+=(char)(i+'a');
 			}
 		}
-
-		return ' ';
+		return s;
 	}
 	
 	//main function
@@ -45,8 +46,8 @@ public class MaxIndex {
 		
 		String a = "adcffaet";
 		String b = "onkl";
-		char ch = maxIndex(a,b);
-		if(ch == ' ') {
+		String ch = maxIndex(a,b);
+		if(ch == "") {
 			System.out.println("-1");
 		}else {
 			System.out.println(ch);

@@ -1,5 +1,6 @@
 package string.findTheMaxIndexChar;
 
+/* find the common char index from the 1st String*/
 public class MinIndex {
 	
 	//size of hash array
