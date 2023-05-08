@@ -18,6 +18,7 @@ public class MinIndex {
 		for(int j=0;j<b.length();j++) {
 			arr[b.charAt(j) - 'a'] = ++arr[b.charAt(j) - 'a'];
 		}
+		printArray(arr);
 		//finding index
 		for(int j=0;j<a.length();j++) {
 			if(arr[a.charAt(j) - 'a'] > 1) {
