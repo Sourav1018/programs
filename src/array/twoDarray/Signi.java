@@ -43,7 +43,7 @@ public class Signi {
 
 			// take variable for prime count and non prime count for primary diagonal
 			int pCount = 0, npCount = 0;
-			// take variable for prime count and non prime count for primary diagonal
+			// take variable for prime count and non prime count for secondary diagonal
 			int spCount = 0, snpCount = 0;
 
 			// passing number to isPrime method and count
