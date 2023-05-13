@@ -1,4 +1,4 @@
-package string.helpfulmaths;
+package string.cf800;
 
 import java.util.Scanner;
 

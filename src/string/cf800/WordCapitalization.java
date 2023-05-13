@@ -1,4 +1,4 @@
-package string.wordCapitalization;
+package string.cf800;
 
 //using StringBuilder
 import java.util.Scanner;

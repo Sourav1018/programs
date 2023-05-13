@@ -1,4 +1,4 @@
-package string.casechange;
+package string.classProgram;
 
 import java.util.Scanner;
 

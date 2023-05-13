@@ -1,4 +1,4 @@
-package string.firstRepeatChar;
+package string.gfgStrings;
 
 /*check 1st repeat char in String*/
 public class Repeat {

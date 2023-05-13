@@ -1,4 +1,4 @@
-package string.abbreviation;
+package string.cf800;
 
 import java.util.Scanner;
 

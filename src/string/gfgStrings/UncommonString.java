@@ -1,6 +1,7 @@
-package string.uncommon;
+package string.gfgStrings;
 
 public class UncommonString {
+	//main method
 	public static void main(String[] args) {
 		String a="abc";
 		String b="abc";

@@ -1,4 +1,4 @@
-package string.casechange;
+package string.classProgram;
 
 /* using empty String*/
 public class UpperToLower {

@@ -1,4 +1,4 @@
-package string.space;
+package string.classProgram;
 
 import java.util.*;
 

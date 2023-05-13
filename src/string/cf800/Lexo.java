@@ -1,4 +1,4 @@
-package string.lexicographicallyOrderCheck;
+package string.cf800;
 
 import java.util.*;
 public class Lexo {

@@ -1,4 +1,4 @@
-package string.uncommon;
+package string.gfgStrings;
 
 /*using hashing finding the uncommon character*/
 public class Huncommon {
