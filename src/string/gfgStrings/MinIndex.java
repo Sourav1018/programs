@@ -1,4 +1,4 @@
-package string.findTheMaxIndexChar;
+package string.gfgStrings;
 
 /* find the common char index from the 1st String*/
 public class MinIndex {

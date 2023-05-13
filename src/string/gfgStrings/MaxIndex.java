@@ -1,4 +1,4 @@
-package string.findTheMaxIndexChar;
+package string.gfgStrings;
 
 /*maximum occurrence of that character*/
 
