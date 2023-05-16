@@ -10,6 +10,7 @@ package array.twoDarray;
  * display the final output Matrix
  */
 public class Signi2 {
+	//print array function
 	public static void printArr(char[][] a) {
 		for (int i = 0; i < a.length; i++) {
 			for (int j = 0; j < a.length; j++) {
