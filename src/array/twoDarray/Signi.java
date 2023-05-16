@@ -1,5 +1,14 @@
 package array.twoDarray;
 
+/*
+ * question : wap to read 3 by 3 matrix with digits inputs numeric values as input 
+ * count no. of prime and non-prime digits in primary and secondary
+ * diagonal elements. if both counts are equal then move all 1st row 
+ * elements to last column, last column elements to last row, last row 
+ * elements to 1st column, 1st column elements to 1st row, if counts are 
+ * not equal then interchange primary diagonal elements with secondary 
+ * diagonal elements. display the final matrix.
+ */
 public class Signi {
 		// print 2d array
 		static void print(int[][] arr) {
